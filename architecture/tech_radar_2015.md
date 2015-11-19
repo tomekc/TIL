@@ -22,3 +22,15 @@ Już to robimy.
 ### Idempotency filters
 
 Zabezpieczyć się przed wielokrotnym wywołaniem serwisu nieidempotentnego, przykładowo na skutek opóźnień i konfiguracji load-balancerów.
+
+### Backends for frontends (Trial)
+
+### Idempotency filters (Trial)
+
+## Tools
+
+### Moutebank
+
+For mocking and stubbing network services
+
+
